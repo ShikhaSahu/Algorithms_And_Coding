@@ -1,9 +1,11 @@
 How to get better?
+
 When you walk into a bookstore, you often find books called Teach Yourself Java in 7 Days. The authors try to convince you that programming is easy when it really is not. Peter Norvig wrote an excellent essay on this topic called Teach Yourself Programming in Ten Years which I highly recommend. See also a comic by Abstruse Goose on the same topic. I agree with Peter—it takes a lot of time and effort. However, you should still try to make your training as effective as possible.
 
 There is very little information available about training for programming competitions, so I decided to create a training program, which is probably the first one ever written. It is based on my experience as a competition programmer as well as a semi-professional athlete. Please let me know if you have any comments.
 
 Training program
+
 Training philosophy
 Until the age of 15, I have been competing in orienteering (running with a map in the forest). I was training a lot, running 1700 km a year in the mountains. Then I got health problems and stopped training completely. Suddenly I had a lot of free time which I spent training for math and programming competitions instead. I actually used some of the sport training methods for my programming trainings.
 
