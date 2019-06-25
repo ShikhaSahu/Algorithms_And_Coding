@@ -1,3 +1,10 @@
+/*
+problem is that we have a string which contains alphanumeric characters and parenthesis like"[({})]"
+we need to check wether the parenthesis are balanced or not
+
+*/
+
+
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
