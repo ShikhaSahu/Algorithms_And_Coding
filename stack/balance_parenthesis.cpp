@@ -19,11 +19,11 @@ bool check_balance_symbols(string str)
             s.push(str[i]);
         else if(str[i]==')' || str[i]==']' || str[i]=='}')
         {
-            if(s.top()=='(' && str[i]==')')
+            if(s.top()=='(' && !s.empty() && str[i]==')')
                 s.pop();
-            else if(s.top()=='[' && str[i]==']')
+            else if(s.top()=='[' && !s.empty() && str[i]==']')
                 s.pop();
-            else if(s.top()=='{' && str[i]=='}')
+            else if(s.top()=='{' && !s.empty() && str[i]=='}')
                 s.pop();
             else
                  return false;
